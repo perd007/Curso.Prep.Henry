@@ -1,0 +1,17 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+*Variables: son aquellas dentro de un lenguaje de programacion que lamacenan datos temporalmente la asignacion de un valor a una vaiablese llama declaracion de variables, estas a su vez son de un determinado tipo de dato aunque en el caso de javascript este tipo de dato no debe debe ser espicifiacdo antes de declarar na variable porser un lenguaje no tipiado.
+
+*String: es un tipo de datos usado para caracteres,es decir que toda variable que use caracteres(los cuales van entre comillas al momento de serde ser asignados) es una variable de tipo string.
+
+*funciones: las funciones son segmentos del codigo en el cual se desarrolla una porcion de codigo que es separada del resto del codigo ylacal puedeser invocada en otras partes del mismo,esta funciones pueden retornar un valor mediante la palbra reservada "return" la caual no solo retorna algo sino tambien que detiene la ejecucuon del codigo en esa lineay devuelvealgun resultado. estas fuciones puede recibir arguntos que son variables que solo son validas en el interior de la funcion y que solo pueden ser vista por elresto delcodigo si son retornadas.
+
+*declaraciones if=: Son estructuras que permiten controlar condiciones, se utilizan para cuando queremos determinar si si se cumple una determinada funcion se ejecute un codigo en esopecifico y si no se cumple podemos condicionar mediante el "else" para que se ejecute otro.
+
+Valores booleanos: estos comprenden solo 2 valores: true(verdadero) o false(falso), estos valores generalmente se ven expresado en la variable detipo de datos booleanas, pero tambien en usa en alguna declaraciones como if o con algunos operadores

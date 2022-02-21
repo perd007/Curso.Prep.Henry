@@ -1,0 +1,13 @@
+conceptos 
+
+"for"= Es una ciclo iterativo en el cual esta ligado a una condicion que se establece entre los parantesis que van
+despues del for en lla cual se determina primera mente la  inicializacion de una variable luego la condicion de cuantas  veces se repetira este ciclo y finalmente el aumentoo  en "1" de la variable ya inncializada, posteriormente tenemo las llaves dentro dela cuales iran los procedimiento o el codigo que se ejecutara solo dentro de esta ciclo y tantas veces como el ciclo  lo indique
+
+
+`&&`, Se traduce como "and" o "Y" es un operador logico que permite permite determinar si una compracion entre 2 valores es verdadera(true) o falsa(false), para ello ambas condicones deber ser verdaderas de lo contrario esta condicion nos dira que el resultado de la comparacion seria falso
+
+, `||`, se traduce como "OR" o "O" es un operador logico que nos dice si si el resultado de una compracion entre 2 valores es verdero o falso, sin embargo es distito del `&&` en que su resultado sea verdadero solo debe exitar como verdadera una de las condiciones, es decir basta que una de los valores sea verdadero para que este operador nos indique el resultado de dicha compracion es verdadero.
+
+
+
+ `!`, conocido con "Not" o "No", es un operador logico cuya funcion es negar el resultado opuesto de un valor booleano, bien que este valor provenga del  resultado de una expresion o sea un valor definido anteriormente a este resultado cuando le aplicamos este operador lo convertira en lo contario es decir si era verdero sera falso y si era falso sra verdadero
